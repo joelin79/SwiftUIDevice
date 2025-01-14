@@ -7,7 +7,7 @@ Filling in some of the missing pieces of SwiftUI's environment. Get easy info ab
 ### Swift Package Manager
 
 1. File -> Swift Packages -> Add Package Dependency
-2. Enter [https://github.com/mattmaddux/SwiftUIDevice.git](https://github.com/joelin79/SwiftUIDevice)
+2. Enter https://github.com/joelin79/SwiftUIDevice.git
 
 
 ### Manual
